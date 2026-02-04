@@ -1,1 +1,4 @@
-size, neighborhood, price
+size (sq. ft),neighborhood, price ($)
+1900,urban,420000
+1600,suburban,360000
+2100,rural,330000
